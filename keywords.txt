@@ -18,5 +18,5 @@ checkKeys	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-eVref LITERAL1
-eKeynum LITERAL1
+eVref	LITERAL1
+eKeynum	LITERAL1
