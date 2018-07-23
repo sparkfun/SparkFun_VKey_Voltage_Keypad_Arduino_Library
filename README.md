@@ -19,7 +19,7 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[VKey Product Repository](https://github.com/sparkfun/VKey_Voltage_Keypad)** - Main repository (including hardware files) for the <PRODUCT NAME>.
+* **[VKey Product Repository](https://github.com/sparkfun/VKey_Voltage_Keypad)** - Main repository (including hardware files) for the VKey Voltage Keypad.
 * **[VKey Hookup Guide](https://learn.sparkfun.com/tutorials/vkey-voltage-keypad-hookup-guide)** - Basic hookup guide for the VKey Voltage Keypad.
 
 
